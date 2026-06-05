@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360" height="350" viewBox="0 0 360 350" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo B - Cintre &amp; lumiere - FaitesVousConfiance</title>
+  <desc>Cintre dore surmonte de rayons de lumiere, nom de marque en serif. Vectoriel editable.</desc>
+
+  <!-- Rayonnement -->
+  <line x1="180" y1="52" x2="180" y2="38" stroke="#DFC58C" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="166" y1="56" x2="159" y2="45" stroke="#DFC58C" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="194" y1="56" x2="201" y2="45" stroke="#DFC58C" stroke-width="2.6" stroke-linecap="round"/>
+
+  <!-- Cintre -->
+  <path d="M180 92 C180 76 169 74 169 86" fill="none" stroke="#C6A664" stroke-width="3" stroke-linecap="round"/>
+  <path d="M180 92 L122 138 L238 138 Z" fill="none" stroke="#C6A664" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Nom -->
+  <text x="180" y="248" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="28" font-weight="500" fill="#54493C" letter-spacing="0.5">Faites-Vous Confiance</text>
+
+  <!-- Filet -->
+  <line x1="78" y1="272" x2="150" y2="272" stroke="#C6A664" stroke-width="0.8"/>
+  <path d="M180 267 L185 272 L180 277 L175 272 Z" fill="#C6A664"/>
+  <line x1="210" y1="272" x2="282" y2="272" stroke="#C6A664" stroke-width="0.8"/>
+
+  <!-- Signature -->
+  <text x="180" y="299" text-anchor="middle" font-family="'Montserrat', Arial, sans-serif" font-size="15" font-weight="500" fill="#C6A664" letter-spacing="5">L.  SYLLA</text>
+  <text x="180" y="322" text-anchor="middle" font-family="'Montserrat', Arial, sans-serif" font-size="11" font-weight="400" fill="#9A8A74" letter-spacing="3">MODE &#183; STYLE &#183; ART DE VIVRE</text>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680" height="400" viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo FaitesVousConfiance - L. Sylla</title>
+  <desc>Embleme circulaire avec croix doree integree, nom de marque en serif et signature L. Sylla. Format vectoriel editable.</desc>
+
+  <!-- Embleme -->
+  <circle cx="340" cy="118" r="66" fill="#F6EEDC"/>
+  <circle cx="340" cy="118" r="66" fill="none" stroke="#C6A664" stroke-width="1.5"/>
+  <circle cx="340" cy="118" r="56" fill="none" stroke="#DFC58C" stroke-width="0.8"/>
+
+  <!-- Croix integree -->
+  <line x1="340" y1="66" x2="340" y2="176" stroke="#C6A664" stroke-width="5" stroke-linecap="round"/>
+  <line x1="314" y1="102" x2="366" y2="102" stroke="#C6A664" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Lumiere / glint -->
+  <path d="M340 50 L343 60 L353 63 L343 66 L340 76 L337 66 L327 63 L337 60 Z" fill="#E7CE93"/>
+
+  <!-- Nom de marque -->
+  <text x="340" y="262" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="42" font-weight="500" fill="#54493C" letter-spacing="0.5">Faites-Vous Confiance</text>
+
+  <!-- Filet separateur -->
+  <line x1="232" y1="292" x2="318" y2="292" stroke="#C6A664" stroke-width="0.8"/>
+  <path d="M340 287 L345 292 L340 297 L335 292 Z" fill="#C6A664"/>
+  <line x1="362" y1="292" x2="448" y2="292" stroke="#C6A664" stroke-width="0.8"/>
+
+  <!-- Signature -->
+  <text x="340" y="326" text-anchor="middle" font-family="'Montserrat', Arial, sans-serif" font-size="18" font-weight="500" fill="#C6A664" letter-spacing="6">L.  SYLLA</text>
+  <text x="340" y="354" text-anchor="middle" font-family="'Montserrat', Arial, sans-serif" font-size="12" font-weight="400" fill="#9A8A74" letter-spacing="3">MODE &#183; STYLE &#183; ART DE VIVRE</text>
+</svg>

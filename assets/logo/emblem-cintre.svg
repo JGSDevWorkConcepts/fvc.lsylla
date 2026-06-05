@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <title>Emblème cintre - FaitesVousConfiance</title>
+  <!-- Rayonnement -->
+  <line x1="60" y1="34" x2="60" y2="20" stroke="#DFC58C" stroke-width="3" stroke-linecap="round"/>
+  <line x1="44" y1="38" x2="36" y2="26" stroke="#DFC58C" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="38" x2="84" y2="26" stroke="#DFC58C" stroke-width="3" stroke-linecap="round"/>
+  <!-- Cintre -->
+  <path d="M60 78 C60 60 47 58 47 72" fill="none" stroke="#C6A664" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M60 78 L18 110 L102 110 Z" fill="none" stroke="#C6A664" stroke-width="3.4" stroke-linejoin="round"/>
+</svg>
